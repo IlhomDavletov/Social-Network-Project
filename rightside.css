@@ -1,0 +1,66 @@
+.cards{
+    width: 10%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin: 30px;
+    padding: 1px;
+    text-align: center;
+}
+.react{
+    margin: 10px;
+}
+.btn {
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    background-color:lightgrey;
+    border-style: none;
+}
+.btn:hover{
+    background-color: gray;
+}
+.dog{
+    width: 50%;
+   padding-left: 30px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px
+
+} 
+.check{
+    width: 35%;
+    height: 50%;
+    background-color:lightgreen;
+    color: white;
+    border: none;
+    padding: 15px;
+    margin-left: 20px;
+}
+.x{
+    width: 35%;
+    background-color: coral;
+    color: white;
+    border: none;
+    margin-right:20px;
+}
+.check:hover, .x:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+.ads {
+ margin-top: 40px;
+ padding: 20px 0;
+ width: 10%
+}
+
+.bug {
+  
+    padding: 30px 0;
+    font-size: xx-large;
+    width: 10%;
+}
