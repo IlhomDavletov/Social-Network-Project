@@ -1,0 +1,48 @@
+div {
+  display: block;
+}
+.w3-col-m7 {
+  width: 58%;
+}
+.w3-col,
+.w3-half {
+  float: left;
+  width: 100%;
+}
+.w3-row {
+  box-sizing: inherit;
+}
+body,
+h4 {
+  font-family: "Open Sans", sans-serif;
+}
+body {
+  font-size: 15px;
+  line-height: 1.5;
+}
+.w3.white {
+  background-color: white;
+  color: black;
+}
+.w3-card {
+  box-shadow: 0, 2px, 5px, 0 rgba(0, 0, 0, 0.16), 0;
+}
+.w3-row-padding {
+  content: none;
+  display: table;
+  clear: both;
+}
+.w3-row-padding,
+.w3-col {
+  padding: 0 8px;
+}
+.w3-col-m12 {
+  width: 99%;
+}
+.w3-col {
+  float: left;
+}
+.w3-card{
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16),
+  0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
