@@ -1,3 +1,6 @@
+.rightbody{
+    float: right;
+}
 .cards{
     width: 10%;
     height: auto;
